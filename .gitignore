@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results.json
+scan_results.json
+rejected_scope.log
